@@ -1,1 +1,1 @@
-# Oil_usages_duprees_regression 
+Conducted a comprehensive regression analysis using R to develop a predictive model for home heating oil usage, leveraging degree days, home index, and household size; identified statistically significant predictors, optimized delivery schedules, and enhanced inventory management, ultimately improving service reliability and customer satisfaction.
